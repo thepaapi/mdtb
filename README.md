@@ -63,7 +63,7 @@ git clone https://github.com/thepaapi/mdtb.git
 Navigate to the cloned repository's directory and install the required Python dependencies using `pip`:
 
 ```zsh
-cd MusicDownloader-Telegram-Bot
+cd mdtb
 pip install -r requirements.txt
 ```
 
