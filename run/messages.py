@@ -6,7 +6,7 @@ from telethon.errors.rpcerrorlist import MessageNotModifiedError
 
 class BotMessageHandler:
     start_message = """
-Welcome to your **Music Downloader!** 🎧
+Welcome🎧
 
 Send me Youtube Videos Shorts links or Instagram Videos Reels IGTV links, and I'll download for you. 🎶
 
