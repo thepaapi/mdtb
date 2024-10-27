@@ -31,7 +31,7 @@ Or simply click the Instructions button below. 👇
 3. Receive file 📤
 
 
-Questions? Ask @adibnikjou
+Questions? Ask @Bigstark2
         """
 
     search_result_message = """🎵 The following are the top search results that correspond to your query:
