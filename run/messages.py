@@ -8,23 +8,14 @@ class BotMessageHandler:
     start_message = """
 Welcome to your **Music Downloader!** 🎧
 
-Send me the name of a song or artist, and I'll find and send you the downloadable track. 🎶
+Send me Youtube Videos Shorts links or Instagram Videos Reels IGTV links, and I'll download for you. 🎶
 
 To see what I can do, type: /help
 Or simply click the Instructions button below. 👇
 """
 
     instruction_message = """
-🎧 Music Downloader 🎧
 
-1. Share Spotify/YouTube song link 🔗
-2. Wait for download confirmation 📣
-3. Receive song file 💾
-4. Or send voice message with song sample 
-   for best match and details 🎤🔍📩
-5. Ask for lyrics, artist info, etc. 📜👨‍🎤
-
-💡 Tip: Search by title, lyrics, or other details!
 
 📺 YouTube Downloader 📺
 
@@ -39,13 +30,6 @@ Or simply click the Instructions button below. 👇
 2. Wait for download ⏳
 3. Receive file 📤
 
-🐦 TweetCapture 🐦
-
-1. Provide tweet link 🔗
-2. Wait for screenshot 📸
-3. Receive screenshot 🖼️
-4. For media content, use "Download Media" 
-   button after getting screenshot 📥
 
 Questions? Ask @adibnikjou
         """
@@ -57,7 +41,7 @@ Questions? Ask @adibnikjou
 
 """
     JOIN_CHANNEL_MESSAGE = """It seems you are not a member of our channel yet.
-Please join to continue."""
+Please join to use this bot."""
 
     search_playlist_message = """The playlist contains these songs:"""
 
