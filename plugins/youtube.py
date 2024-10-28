@@ -247,7 +247,7 @@ class YoutubeDownloader:
                         audio_attributes = DocumentAttributeAudio(
                             duration=int(duration),
                             title="Downloaded Audio",  # Replace with actual title
-                            performer="@Spotify_YT_Downloader_BOT",  # Replace with actual performer
+                            performer="@bigstark2",  # Replace with actual performer
                             # Add other attributes as needed
                         )
 
