@@ -260,7 +260,7 @@ class YoutubeDownloader:
 
                     # Send the downloaded file
                     await client.send_file(event.chat_id, file=media,
-                                           caption=f"Enjoy!\n@bgstark2",
+                                           caption=f"Enjoy!\n@bigstark2",
                                            force_document=False,
                                            # This ensures the file is sent as a video/voice if possible
                                            supports_streaming=True  # This enables video streaming
